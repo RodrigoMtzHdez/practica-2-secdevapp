@@ -1,0 +1,7 @@
+/* Estilos para la pagina de consultas */
+
+.formulario {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
